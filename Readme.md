@@ -49,6 +49,10 @@
     git merge develop
     ```
 
+* 学习资料
+
+    [图文详解如何利用Git+Github进行团队协作开发](https://zhuanlan.zhihu.com/p/23478654)
+
 ## Notes共享计划（初步）
 
 * 论文写作Tips、模版等
