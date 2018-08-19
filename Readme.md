@@ -49,8 +49,13 @@
     git merge develop
     ```
 
-## Notes共享计划（初步）：
+## Notes共享计划（初步）
 
 * 论文写作Tips、模版等
 * 经典论文整理：*领域、题目、链接、code链接（若有）、阅读笔记（可简可繁，也可转自网络）*
 * 自己想与大家分享的其他文档
+
+
+## Markdown常见操作集锦
+
+**Contributer will be @伍小平**
