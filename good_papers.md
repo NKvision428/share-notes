@@ -5,12 +5,20 @@
 
 ## 1. 分类classification
 
+* 
+
 ## 2. 分割segmentation
 
+* 
+
 ## 3. 检测detection
+
+* 
 
 ## 4. 生成generation
 
 * [Generative Adversarial Networks](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), NIPS 2014, [code](https://github.com/eriklindernoren/Keras-GAN)
-
+  简介：GAN开创论文，...
 ## 5. ...
+
+* 
