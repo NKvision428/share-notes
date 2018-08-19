@@ -4,9 +4,9 @@
 
 * （仅首次需要）克隆远端项目到本地
 
-    ’‘’shell
+    ```shell
     git clone https://github.com/NKvision428/share-notes
-    ‘’‘
+    ```
 
 * 新建自己的branch
 
